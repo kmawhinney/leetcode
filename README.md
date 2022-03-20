@@ -1,5 +1,5 @@
 # LeetCode
-My solutions to Leetcode problems
+My solutions to LeetCode problems
 
 | # | Problem | Solution | Difficulty |
 |---| ------- | -------- | ---------- |
