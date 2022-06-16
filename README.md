@@ -11,4 +11,5 @@ My solutions to LeetCode problems
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/contains_duplicate.py) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/valid_anagram.py) | Easy |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/nim_game.py) | Easy |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/top_k_frequent_elements.py) | Medium |
 | 412 | [FizzBuzz](https://leetcode.com/problems/fizz-buzz/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/fizzbuzz.py) | Easy |
