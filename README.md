@@ -12,6 +12,7 @@ My solutions to LeetCode problems
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/length_of_last_word.py) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/best_time_to_buy_and_sell_stock.py) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/valid_palindrome.py) | Easy |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/evaluate_reverse_polish_notation.py) | Medium |
 | 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/two_sum_II.py) | Medium |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/majority_element.py) | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/contains_duplicate.py) | Easy |
