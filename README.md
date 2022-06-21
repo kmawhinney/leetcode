@@ -7,6 +7,7 @@ My solutions to LeetCode problems
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/longest_substring_without_repeating_characters.py) | Medium |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/container_with_most_water.py) | Medium |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/roman_to_integer.py) | Easy |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/valid_parentheses.py) | Easy |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/group_anagrams.py) | Medium |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/length_of_last_word.py) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/best_time_to_buy_and_sell_stock.py) | Easy |
