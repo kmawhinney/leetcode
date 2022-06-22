@@ -21,3 +21,4 @@ My solutions to LeetCode problems
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/top_k_frequent_elements.py) | Medium |
 | 412 | [FizzBuzz](https://leetcode.com/problems/fizz-buzz/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/fizzbuzz.py) | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/binary_search.py) | Easy |
+| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/add_two_integers) | Easy |
