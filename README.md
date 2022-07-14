@@ -10,6 +10,7 @@ My solutions to LeetCode problems
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/valid_parentheses.py) | Easy |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/group_anagrams.py) | Medium |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/length_of_last_word.py) | Easy |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/maximum_depth_of_binary_tree.py) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/best_time_to_buy_and_sell_stock.py) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/valid_palindrome.py) | Easy |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/evaluate_reverse_polish_notation.py) | Medium |
