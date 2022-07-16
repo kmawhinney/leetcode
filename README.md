@@ -18,6 +18,7 @@ My solutions to LeetCode problems
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/valid_palindrome.py) | Easy |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/longest_consecutive_sequence.py) | Medium |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/evaluate_reverse_polish_notation.py) | Medium |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/min_stack.py) | Medium |
 | 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/two_sum_II.py) | Medium |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/majority_element.py) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/reverse_linked_list.py) | Easy |
