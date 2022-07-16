@@ -7,6 +7,7 @@ My solutions to LeetCode problems
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/longest_substring_without_repeating_characters.py) | Medium |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/container_with_most_water.py) | Medium |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/roman_to_integer.py) | Easy |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/3sum.py) | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/valid_parentheses.py) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/merge_two_sorted_lists.py) | Easy |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/valid_sudoku.py) | Medium |
