@@ -21,6 +21,7 @@ My solutions to LeetCode problems
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/min_stack.py) | Medium |
 | 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/two_sum_II.py) | Medium |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/majority_element.py) | Easy |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/number_of_islands.py) | Medium |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/reverse_linked_list.py) | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/contains_duplicate.py) | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/invert_binary_tree.py) | Easy |
