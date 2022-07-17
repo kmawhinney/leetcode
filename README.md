@@ -23,6 +23,7 @@ My solutions to LeetCode problems
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/majority_element.py) | Easy |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/number_of_islands.py) | Medium |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/reverse_linked_list.py) | Easy |
+| 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/course_schedule.py) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/contains_duplicate.py) | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/invert_binary_tree.py) | Easy |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/product_of_array_except_self.py) | Medium |
