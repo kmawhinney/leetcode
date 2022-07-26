@@ -13,6 +13,7 @@ My solutions to LeetCode problems
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/valid_sudoku.py) | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/group_anagrams.py) | Medium |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/length_of_last_word.py) | Easy |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/same_tree.py) | Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/maximum_depth_of_binary_tree.py) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/best_time_to_buy_and_sell_stock.py) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/valid_palindrome.py) | Easy |
