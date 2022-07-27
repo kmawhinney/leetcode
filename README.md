@@ -44,4 +44,5 @@ My solutions to LeetCode problems
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/most_common_word.py) | Easy |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/koko_eating_bananas.py) | Medium |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/deepest_leaves_sum.py) | Medium |
+| 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/maximum_units_on_a_truck.py) | Easy |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/add_two_integers.py) | Easy |
