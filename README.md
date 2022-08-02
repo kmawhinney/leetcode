@@ -35,6 +35,7 @@ My solutions to LeetCode problems
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/invert_binary_tree.py) | Easy |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/product_of_array_except_self.py) | Medium |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/valid_anagram.py) | Easy |
+| 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/meeting_rooms_II.py) | Medium |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/missing_number.py) | Easy |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/nim_game.py) | Easy |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/top_k_frequent_elements.py) | Medium |
