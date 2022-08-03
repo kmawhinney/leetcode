@@ -53,4 +53,5 @@ My solutions to LeetCode problems
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/deepest_leaves_sum.py) | Medium |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/design_parking_system.py) | Easy |
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/maximum_units_on_a_truck.py) | Easy |
+| 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/sum_of_subarray_ranges.py) | Medium |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/add_two_integers.py) | Easy |
