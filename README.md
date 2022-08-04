@@ -57,4 +57,5 @@ My solutions to LeetCode problems
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/maximum_units_on_a_truck.py) | Easy |
 | 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/sum_of_subarray_ranges.py) | Medium |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/maximum_twin_sum_of_a_linked_list.py) | Medium |
+| 2214 | [Minimum Health to Beat Game](https://leetcode.com/problems/minimum-health-to-beat-game) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/minimum_health_to_beat_game.py) | Medium |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/add_two_integers.py) | Easy |
