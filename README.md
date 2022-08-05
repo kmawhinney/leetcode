@@ -54,6 +54,7 @@ My solutions to LeetCode problems
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/koko_eating_bananas.py) | Medium |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/sum_of_subarray_minimums.py) | Medium |
 | 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/reorder_data_in_log_files.py) | Medium |
+| 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/rotting_oranges.py) | Medium |
 | 1268 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/search_suggestions_system.py) | Medium |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/deepest_leaves_sum.py) | Medium |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/design_parking_system.py) | Easy |
