@@ -37,6 +37,7 @@ My solutions to LeetCode problems
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/course_schedule_II.py) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/contains_duplicate.py) | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/invert_binary_tree.py) | Easy |
+| 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/basic_calculator_II.py) | Medium |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/product_of_array_except_self.py) | Medium |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/valid_anagram.py) | Easy |
 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/meeting_rooms_II.py) | Medium |
