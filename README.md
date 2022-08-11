@@ -54,6 +54,7 @@ My solutions to LeetCode problems
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/binary_search.py) | Easy |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/flood_fill.py) | Easy |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/daily_temperatures.py) | Medium |
+| 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/min_cost_climbing_stairs.py) | Easy |
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/most_common_word.py) | Easy |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/koko_eating_bananas.py) | Medium |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/sum_of_subarray_minimums.py) | Medium |
