@@ -1,5 +1,23 @@
 class Solution:
     def minMeetingRooms(self, intervals: List[List[int]]) -> int:
+        
+        # Without Using Min Heap
+        ending_times = [0]
+        rooms = 0
+        
+        sorted_intervals = sorted(intervals, key=lambda x:x[0])
+        
+        for start, end in sorted_intervals:
+            min_end = min(ending_times)
+            if start >= min_end:
+                ending_times.remove(min_end)  
+            ending_times.append(end)
+            rooms = max(rooms, len(ending_times))
+        
+        return rooms
+    
+        
+        # Using Min Heap
         if not intervals:
             return 0
         
