@@ -63,6 +63,7 @@ My solutions to LeetCode problems
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/koko_eating_bananas.py) | Medium |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/sum_of_subarray_minimums.py) | Medium |
 | 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/reorder_data_in_log_files.py) | Medium |
+| 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/k_closest_points_to_origin.py) | Medium |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/rotting_oranges.py) | Medium |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/n-th_tribonacci_number.py) | Easy |
 | 1152 | [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/analyze_user_website_visit_pattern.py) | Medium |
