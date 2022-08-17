@@ -58,6 +58,7 @@ My solutions to LeetCode problems
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/flood_fill.py) | Easy |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/daily_temperatures.py) | Medium |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/min_cost_climbing_stairs.py) | Easy |
+| 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/unique_morse_code_words.py) | Easy |
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/most_common_word.py) | Easy |
 | 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/all_nodes_distance_k_in_binary_tree.py) | Medium |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/koko_eating_bananas.py) | Medium |
