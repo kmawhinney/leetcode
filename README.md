@@ -27,6 +27,7 @@ My solutions to LeetCode problems
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/best_time_to_buy_and_sell_stock.py) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/valid_palindrome.py) | Easy |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/longest_consecutive_sequence.py) | Medium |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/single_number.py) | Easy |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/copy_list_with_random_pointer.py) | Medium |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/linked_list_cycle.py) | Easy |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/reorder_list.py) | Medium |
