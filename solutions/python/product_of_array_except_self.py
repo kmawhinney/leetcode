@@ -1,22 +1,20 @@
-class Solution:
-    def productExceptSelf(self, nums: List[int]) -> List[int]:
-        answer = []
-        prefix, suffix = 1, 1
-        pre_array, suf_array = [], []
+class Solution(object):
+    def productExceptSelf(self, nums):
+        length = len(nums)
+        pre, post, result = [1]*length, [1]*length, [1]*length
+
+        # Calculate prefix
+        for i in range(length):
+            if i > 0:
+                pre[i] = nums[i-1] * pre[i-1]
         
-        for num in nums:
-            pre_array.append(prefix)
-            prefix *= num
-            
-        nums.reverse()
-            
-        for num in nums:
-            suf_array.append(suffix)
-            suffix *= num
-            
-        suf_array.reverse()
+        # Calculate postfix
+        for i in range(length, -1, -1):
+            if i < (length - 1):
+                post[i] = nums[i+1] * post[i+1]
         
-        for i in range(len(nums)):
-            answer.append(pre_array[i] * suf_array[i])
-            
-        return answer
+        # Multiple prefix and postfix
+        for i in range(length):
+            result[i] *= pre[i] * post[i]
+        
+        return result
