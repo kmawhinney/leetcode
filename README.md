@@ -16,6 +16,7 @@ My solutions to LeetCode problems
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/remove_duplicates_from_sorted_array.py) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/remove_element.py) | Easy |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/search_in_rotated_sorted_array.py) | Medium |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/search_insert_position.py) | Easy |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/valid_sudoku.py) | Medium |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/trapping_rain_water.py) | Hard |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/group_anagrams.py) | Medium |
