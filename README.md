@@ -22,6 +22,7 @@ My solutions to LeetCode problems
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/group_anagrams.py) | Medium |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/merge_intervals.py) | Medium |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/length_of_last_word.py) | Easy |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/plus_one.py) | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/climbing_stairs.py) | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/same_tree.py) | Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/maximum_depth_of_binary_tree.py) | Easy |
