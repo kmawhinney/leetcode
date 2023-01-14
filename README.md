@@ -24,6 +24,7 @@ My solutions to LeetCode problems
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/length_of_last_word.py) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/plus_one.py) | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/climbing_stairs.py) | Easy |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/search_a_2d_matrix.py) | Medium |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/same_tree.py) | Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/maximum_depth_of_binary_tree.py) | Easy |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/path_sum.py) | Easy |
