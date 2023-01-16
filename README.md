@@ -38,6 +38,7 @@ My solutions to LeetCode problems
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/reorder_list.py) | Medium |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/lru_cache.py) | Medium
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/evaluate_reverse_polish_notation.py) | Medium |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/find_minimum_in_rotated_sorted_array.py) | Medium |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/min_stack.py) | Medium |
 | 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/two_sum_II.py) | Medium |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/majority_element.py) | Easy |
