@@ -3,18 +3,19 @@ class Solution:
         l = 1
         r = max(piles)
         result = r
-        
-        while l <= r:
-            k = (r + l) // 2
-            
-            hours_to_eat = 0
+
+        def finish_bananas(rate):
+            time_to_finish = 0
             for pile in piles:
-                hours_to_eat += math.ceil(pile / k)
-            
-            if hours_to_eat > h:
-                l = k + 1
-            else:
-                result = min(result, k)
-                r = k - 1
+                time_to_finish += math.ceil(pile / rate)
+            return time_to_finish
                 
+        while l <= r:
+            mid = (l + r) // 2
+            if finish_bananas(mid) <= h:
+                result = min(result, mid)
+                r = mid - 1
+            else:
+                l = mid + 1
+        
         return result
