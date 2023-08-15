@@ -48,6 +48,7 @@ My solutions to LeetCode problems
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/number_of_islands.py) | Medium |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/reverse_linked_list.py) | Easy |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/course_schedule.py) | Medium |
+| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/implement_trie.py) | Medium |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/course_schedule_II.py) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/contains_duplicate.py) | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/invert_binary_tree.py) | Easy |
