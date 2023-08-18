@@ -58,6 +58,7 @@ My solutions to LeetCode problems
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/valid_anagram.py) | Easy |
 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/meeting_rooms_II.py) | Medium |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/missing_number.py) | Easy |
+| 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/encode_and_decode_strings.py) | Medium |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/first_bad_version.py) | Easy |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/nim_game.py) | Easy |
 | 314 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/binary_tree_vertical_order_traversal.py) | Medium |
