@@ -27,6 +27,7 @@ My solutions to LeetCode problems
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/search_a_2d_matrix.py) | Medium |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/subsets.py) | Medium |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/same_tree.py) | Easy |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/binary_tree_level_order_traversal.py) | Medium |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/maximum_depth_of_binary_tree.py) | Easy |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/balanced_binary_tree.py) | Easy |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/path_sum.py) | Easy |
