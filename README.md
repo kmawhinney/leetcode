@@ -26,6 +26,7 @@ My solutions to LeetCode problems
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/climbing_stairs.py) | Easy |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/search_a_2d_matrix.py) | Medium |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/subsets.py) | Medium |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/validate_binary_search_tree.py) | Medium |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/same_tree.py) | Easy |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/binary_tree_level_order_traversal.py) | Medium |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/maximum_depth_of_binary_tree.py) | Easy |
