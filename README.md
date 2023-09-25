@@ -18,6 +18,7 @@ My solutions to LeetCode problems
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/search_in_rotated_sorted_array.py) | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/search_insert_position.py) | Easy |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/valid_sudoku.py) | Medium |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/combination_sum.py) | Medium |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/trapping_rain_water.py) | Hard |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/group_anagrams.py) | Medium |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/merge_intervals.py) | Medium |
