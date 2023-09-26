@@ -86,6 +86,7 @@ My solutions to LeetCode problems
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/car_fleet.py) | Medium |
 | 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/all_nodes_distance_k_in_binary_tree.py) | Medium |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/koko_eating_bananas.py) | Medium |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/middle_of_the_linked_list.py) | Easy |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/sum_of_subarray_minimums.py) | Medium |
 | 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/reorder_data_in_log_files.py) | Medium |
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/k_closest_points_to_origin.py) | Medium |
