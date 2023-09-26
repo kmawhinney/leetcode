@@ -58,6 +58,7 @@ My solutions to LeetCode problems
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/contains_duplicate.py) | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/invert_binary_tree.py) | Easy |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/basic_calculator_II.py) | Medium |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/kth_smallest_element_in_a_bst.py) | Medium |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/lowest_common_ancestor_of_a_binary_search_tree.py) | Medium |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/product_of_array_except_self.py) | Medium |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/valid_anagram.py) | Easy |
