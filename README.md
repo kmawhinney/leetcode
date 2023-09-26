@@ -55,6 +55,7 @@ My solutions to LeetCode problems
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/course_schedule.py) | Medium |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/implement_trie.py) | Medium |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/course_schedule_II.py) | Medium |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/kth_largest_element_in_an_array.py) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/contains_duplicate.py) | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/invert_binary_tree.py) | Easy |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/basic_calculator_II.py) | Medium |
