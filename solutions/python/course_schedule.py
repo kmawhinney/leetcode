@@ -1,29 +1,31 @@
-from collections import defaultdict, deque
+from collections import defaultdict
+
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        prereq_map = defaultdict(list) # prereq: courses it is a prereq for
-        indegree = defaultdict(int) # course: num of prereqs required
-        completed = []
-        
-        for course, prereq in prerequisites:
-            prereq_map[prereq].append(course)
-            indegree[course] = indegree.get(course, 0) + 1
-            
-        queue = deque() # queue contains only courses with fully completed prereqs
-        for course in range(numCourses):
-            if course not in indegree:
-                queue.append(course)
+        course_to_prereq = defaultdict(list) # course:prereqs
 
-        while queue:
-            curr_prereq = queue.popleft()
-            completed.append(curr_prereq)
-            
-            for neighbour in prereq_map[curr_prereq]:
-                indegree[neighbour] -= 1
-                if indegree[neighbour] == 0:
-                    queue.append(neighbour)
-            
-        if len(completed) == numCourses:
+        for course, prereq in prerequisites:
+            course_to_prereq[course].append(prereq)
+
+        visited = set()
+
+        def dfs(course):
+            # Base cases
+            if course in visited:
+                return False
+            if not course_to_prereq[course]:
+                return True
+
+            # Recursive case
+            visited.add(course)
+            for prereq in course_to_prereq[course]:
+                if not dfs(prereq):
+                    return False
+            visited.remove(course)
+            course_to_prereq[course] = []
             return True
-        else:
-            return False
+
+        for course in range(numCourses):
+            if not dfs(course):
+                return False
+        return True
