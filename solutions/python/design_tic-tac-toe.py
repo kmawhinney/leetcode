@@ -3,24 +3,25 @@ class TicTacToe:
 
     def __init__(self, n: int):
         self.size = n
-        self.row_map = defaultdict(int)
-        self.col_map = defaultdict(int)
-        self.leftdiag_map = defaultdict(int)
-        self.rightdiag_map = defaultdict(int)
+        self.rows = defaultdict(int) # (player, row):count
+        self.cols = defaultdict(int) # (player, col):count
+        self.diag = defaultdict(int) # player:count
+        self.anti_diag = defaultdict(int)  # player:count
 
     def move(self, row: int, col: int, player: int) -> int:
-        self.row_map[(player, row)] += 1
-        self.col_map[(player, col)] += 1
-        
-        if col == row:
-            self.leftdiag_map[player] += 1
-        if col + row == self.size - 1:
-            self.rightdiag_map[player] += 1
-        
-        if (self.size in self.row_map.values() or
-            self.size in self.col_map.values() or
-            self.size in self.leftdiag_map.values() or
-            self.size in self.rightdiag_map.values()):
+        # Make move
+        self.rows[(player, row)] += 1
+        self.cols[(player, col)] += 1
+        if row == col:
+            self.diag[player] += 1
+        if row + col == self.size - 1:
+            self.anti_diag[player] += 1
+
+        # Check if winner
+        if (self.rows[(player, row)] == self.size or
+            self.cols[(player, col)] == self.size or
+            self.diag[player] == self.size or
+            self.anti_diag[player] == self.size):
             return player
         else:
             return 0
