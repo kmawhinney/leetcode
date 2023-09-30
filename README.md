@@ -71,7 +71,8 @@ My solutions to LeetCode problems
 | 314 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/binary_tree_vertical_order_traversal.py) | Medium |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/top_k_frequent_elements.py) | Medium |
 | 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/design_tic-tac-toe.py) | Medium |
-| 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/logger_rate_limiter) | Easy |
+| 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/logger_rate_limiter.py) | Easy |
+| 362 | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/description/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/design_hit_counter.py) | Medium |
 | 412 | [FizzBuzz](https://leetcode.com/problems/fizz-buzz/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/fizzbuzz.py) | Easy |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/longest_repeating_character_replacement.py) | Medium |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/island_perimeter.py) | Easy |
