@@ -87,6 +87,7 @@ My solutions to LeetCode problems
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/subdomain_visit_count.py) | Medium |
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/most_common_word.py) | Easy |
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/car_fleet.py) | Medium |
+| 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/lemonade_change.py) | Easy |
 | 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/all_nodes_distance_k_in_binary_tree.py) | Medium |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/koko_eating_bananas.py) | Medium |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/middle_of_the_linked_list.py) | Easy |
