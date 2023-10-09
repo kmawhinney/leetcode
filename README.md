@@ -23,6 +23,7 @@ My solutions to LeetCode problems
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/group_anagrams.py) | Medium |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/merge_intervals.py) | Medium |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/length_of_last_word.py) | Easy |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/rotate_list.py) | Medium |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/plus_one.py) | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/climbing_stairs.py) | Easy |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/search_a_2d_matrix.py) | Medium |
