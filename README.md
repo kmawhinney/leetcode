@@ -69,7 +69,7 @@ My solutions to LeetCode problems
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Python](/solutions/python/missing_number.py) |
 | 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | [Python](/solutions/python/encode_and_decode_strings.py) |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | [Python](/solutions/python/first_bad_version.py) |
-| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Easy | [Python](/solutions/python/nim_game.py) |
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Easy | [Python](/solutions/python/nim_game.py) | [Java](/solutions/python/nimGame.java)
 | 314 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | Medium | [Python](/solutions/python/binary_tree_vertical_order_traversal.py) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Python](/solutions/python/top_k_frequent_elements.py) |
 | 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | Medium | [Python](/solutions/python/design_tic-tac-toe.py) |
