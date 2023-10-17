@@ -48,7 +48,7 @@ My solutions to LeetCode problems
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/lru_cache.py) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/evaluate_reverse_polish_notation.py) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/find_minimum_in_rotated_sorted_array.py) |
-| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/min_stack.py) | Medium |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/min_stack.py) |
 | 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/two_sum_II.py) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/majority_element.py) |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/house_robber.py) |
