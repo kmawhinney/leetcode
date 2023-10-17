@@ -58,7 +58,7 @@ My solutions to LeetCode problems
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [Python](/solutions/python/implement_trie.py) |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium | [Python](/solutions/python/course_schedule_II.py) |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | Medium | [Python](/solutions/python/kth_largest_element_in_an_array.py) |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Python](/solutions/python/contains_duplicate.py) |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Python](/solutions/python/contains_duplicate.py) | [Java](/solutions/java/containsDuplicate.java) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [Python](/solutions/python/invert_binary_tree.py) |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | [Python](/solutions/python/basic_calculator_II.py) |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | Medium | [Python](/solutions/python/kth_smallest_element_in_a_bst.py) |
