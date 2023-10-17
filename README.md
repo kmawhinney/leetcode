@@ -64,7 +64,7 @@ My solutions to LeetCode problems
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | Medium | [Python](/solutions/python/kth_smallest_element_in_a_bst.py) |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | Medium | [Python](/solutions/python/lowest_common_ancestor_of_a_binary_search_tree.py) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [Python](/solutions/python/product_of_array_except_self.py) |
-| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Python](/solutions/python/valid_anagram.py) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Python](/solutions/python/valid_anagram.py) | [Java](/solutions/java/validAnagram.java) |
 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | Medium | [Python](/solutions/python/meeting_rooms_II.py) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Python](/solutions/python/missing_number.py) |
 | 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | [Python](/solutions/python/encode_and_decode_strings.py) |
