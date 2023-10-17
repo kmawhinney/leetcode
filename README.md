@@ -3,7 +3,7 @@ My solutions to LeetCode problems
 
 | # | Problem | Difficulty | Python | Java |
 |---| ------- | ---------- | ------ | ---- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/two_sum.py) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/two_sum.py) | [Java](twoSum.java) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | Medium | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/add_two_numbers.py)
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/longest_substring_without_repeating_characters.py) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Python](https://github.com/kmawhinney/leetcode/blob/main/solutions/python/container_with_most_water.py) |
