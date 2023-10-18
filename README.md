@@ -21,7 +21,7 @@ My solutions to LeetCode problems
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [Python](/solutions/python/valid_sudoku.py) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | Medium | [Python](/solutions/python/combination_sum.py) |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Python](/solutions/python/trapping_rain_water.py) |
-| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Python](/solutions/python/group_anagrams.py) |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Python](/solutions/python/group_anagrams.py) | [Java](/solutions/java/groupAnagrams.java) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Python](/solutions/python/merge_intervals.py) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Python](/solutions/python/length_of_last_word.py) |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | Medium | [Python](/solutions/python/rotate_list.py) |
