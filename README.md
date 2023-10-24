@@ -8,7 +8,7 @@ My solutions to LeetCode problems
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [Python](/solutions/python/longest_substring_without_repeating_characters.py) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Python](/solutions/python/container_with_most_water.py) |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [Python](/solutions/python/integer_to_roman.py) |
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Python](/solutions/python/roman_to_integer.py) |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Python](/solutions/python/roman_to_integer.py) | [Java](/solutions/java/romanToInteger.java) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [Python](/solutions/python/3sum.py) |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [Python](/solutions/python/letter_combinations_of_a_phone_number.py) |
 | 19 | [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [Python](/solutions/python/remove_nth_node_from_end_of_list.py) |
