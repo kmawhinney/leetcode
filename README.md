@@ -76,6 +76,7 @@ My solutions to LeetCode problems
 | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) | Easy | [Python](/solutions/python/logger_rate_limiter.py) |
 | 362 | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/description/) | Medium | [Python](/solutions/python/design_hit_counter.py) |
 | 412 | [FizzBuzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [Python](/solutions/python/fizzbuzz.py) |
+| 419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) | Medium | [Python](/solutions/python/battleships_in_a_board.py) |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | [Python](/solutions/python/longest_repeating_character_replacement.py) |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | Easy | [Python](/solutions/python/island_perimeter.py) |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | [Python](/solutions/python/reverse_words_in_a_string_III.py) |
