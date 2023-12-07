@@ -107,6 +107,7 @@ My solutions to LeetCode problems
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | Easy | [Python](/solutions/python/maximum_units_on_a_truck.py) |
 | 1730 | [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/) | Medium | [Python](/solutions/python/shortest_path_to_get_food.py) |
 | 1762 | [Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/description/) | Medium | [Python](/solutions/python/buildings_with_an_ocean_view.py) |
+| 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/) | Easy | [Python](/solutions/python/sign_of_the_product_of_an_array.py) |
 | 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | Medium | [Python](/solutions/python/sum_of_subarray_ranges.py) |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | Medium | [Python](/solutions/python/maximum_twin_sum_of_a_linked_list.py) |
 | 2214 | [Minimum Health to Beat Game](https://leetcode.com/problems/minimum-health-to-beat-game) | Medium | [Python](/solutions/python/minimum_health_to_beat_game.py) |
