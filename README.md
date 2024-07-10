@@ -33,7 +33,7 @@ My solutions to LeetCode problems
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [Python](/solutions/python/search_a_2d_matrix.py) |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | Medium | [Python](/solutions/python/subsets.py) |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | Medium | [Python](/solutions/python/word_search.py) |
-| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Medium | [Python](/solutions/python/remove_duplicates_from_sorted_list.py) |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [Python](/solutions/python/remove_duplicates_from_sorted_list.py) |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | Medium | [Python](/solutions/python/validate_binary_search_tree.py) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [Python](/solutions/python/same_tree.py) |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | Medium | [Python](/solutions/python/binary_tree_level_order_traversal.py) |
