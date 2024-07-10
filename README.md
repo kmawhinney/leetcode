@@ -22,6 +22,7 @@ My solutions to LeetCode problems
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | Medium | [Python](/solutions/python/combination_sum.py) |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Python](/solutions/python/trapping_rain_water.py) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Python](/solutions/python/group_anagrams.py) | [Java](/solutions/java/groupAnagrams.java) |
+| 50 | [Pow(x,n)](https://leetcode.com/problems/powx-n/) | Medium | [Python](/solutions/python/powx_n.py) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [Python](/solutions/python/maximum_subarray.py) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Python](/solutions/python/merge_intervals.py) |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | [Python](/solutions/python/insert_interval.py) |
