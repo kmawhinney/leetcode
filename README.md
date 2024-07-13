@@ -83,6 +83,7 @@ My solutions to LeetCode problems
 | 419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) | Medium | [Python](/solutions/python/battleships_in_a_board.py) |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | [Python](/solutions/python/longest_repeating_character_replacement.py) |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | Easy | [Python](/solutions/python/island_perimeter.py) |
+| 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium | [Python](/solutions/python/01_matrix.py) |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | [Python](/solutions/python/reverse_words_in_a_string_III.py) |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | [Python](/solutions/python/subtree_of_another_tree.py) |
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium | [Python](/solutions/python/max_area_of_island.py) |
