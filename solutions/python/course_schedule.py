@@ -1,31 +1,30 @@
-from collections import defaultdict
+from collections import deque
 
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        course_to_prereq = defaultdict(list) # course:prereqs
-
-        for course, prereq in prerequisites:
-            course_to_prereq[course].append(prereq)
-
-        visited = set()
-
-        def dfs(course):
-            # Base cases
-            if course in visited:
-                return False
-            if not course_to_prereq[course]:
-                return True
-
-            # Recursive case
-            visited.add(course)
-            for prereq in course_to_prereq[course]:
-                if not dfs(prereq):
-                    return False
-            visited.remove(course)
-            course_to_prereq[course] = []
-            return True
+        # TOPOLOGICAL SORT SOLUTION
+        
+        graph = {} # Prereq: List of Courses
+        inDegree = {} # Course: Number of Prereqs
 
         for course in range(numCourses):
-            if not dfs(course):
-                return False
-        return True
+            graph[course] = []
+            inDegree[course] = 0
+
+        for course, prereq in prerequisites:
+            graph[prereq].append(course)
+            inDegree[course] += 1
+
+        q = deque([course for course in inDegree if inDegree[course] == 0])
+        completedCourses = 0
+
+        while q:
+            course = q.popleft()
+            completedCourses += 1
+
+            for neighbor in graph[course]:
+                inDegree[neighbor] -= 1
+                if inDegree[neighbor] == 0:
+                    q.append(neighbor)
+
+        return completedCourses == numCourses
