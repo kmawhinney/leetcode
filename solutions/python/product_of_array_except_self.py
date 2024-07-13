@@ -1,20 +1,34 @@
 class Solution(object):
     def productExceptSelf(self, nums):
-        length = len(nums)
-        pre, post, result = [1]*length, [1]*length, [1]*length
+        # More efficient (prefix/postfix int)
+        result = [1] * len(nums)
 
-        # Calculate prefix
+        prefix = 1
+        for i in range(len(nums)):
+            result[i] = prefix
+            prefix *= nums[i]
+        
+        postfix = 1
+        for i in range(len(nums)-1, -1, -1):
+            result[i] *= postfix
+            postfix *= nums[i]
+        
+        return result
+
+        
+        # Less efficient (prefix/postfix array)
+        length = len(nums)
+        result = [1] * length
+        prefix = [1] * length
+        postfix = [1] * length
+
+        for i in range(1, length):
+            prefix[i] = nums[i-1] * prefix[i-1]
+
+        for i in range(length - 2, -1, -1):
+            postfix[i] = nums[i+1] * postfix[i+1]
+        
         for i in range(length):
-            if i > 0:
-                pre[i] = nums[i-1] * pre[i-1]
-        
-        # Calculate postfix
-        for i in range(length, -1, -1):
-            if i < (length - 1):
-                post[i] = nums[i+1] * post[i+1]
-        
-        # Multiple prefix and postfix
-        for i in range(length):
-            result[i] *= pre[i] * post[i]
-        
+            result[i] = prefix[i] * postfix[i]
+
         return result
