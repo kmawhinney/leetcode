@@ -16,6 +16,7 @@ My solutions to LeetCode problems
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [Python](/solutions/python/merge_two_sorted_lists.py) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Python](/solutions/python/remove_duplicates_from_sorted_array.py) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [Python](/solutions/python/remove_element.py) |
+| 28 | [Find the Index of the First Occurance in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | [Python](/solutions/python/find_the_index_of_the_first_occurrence_in_a_string.py) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [Python](/solutions/python/search_in_rotated_sorted_array.py) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Python](/solutions/python/search_insert_position.py) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [Python](/solutions/python/valid_sudoku.py) |
