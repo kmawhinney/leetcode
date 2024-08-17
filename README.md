@@ -106,6 +106,7 @@ My solutions to LeetCode problems
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | [Python](/solutions/python/k_closest_points_to_origin.py) |
 | 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium |  [Python](/solutions/python/time_based_key-value_store.py) |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | [Python](/solutions/python/rotting_oranges.py) |
+| 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | Medium | [Python](/solutions/python/pairs_of_songs_with_total_durations_divisible_by_60.py) |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | [Python](/solutions/python/n-th_tribonacci_number.py) |
 | 1152 | [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/) | Medium | [Python](/solutions/python/analyze_user_website_visit_pattern.py) |
 | 1268 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | Medium | [Python](/solutions/python/search_suggestions_system.py) |
