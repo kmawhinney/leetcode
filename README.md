@@ -118,6 +118,7 @@ My solutions to LeetCode problems
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/) | Easy | [Python](/solutions/python/sign_of_the_product_of_an_array.py) |
 | 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | Medium | [Python](/solutions/python/sum_of_subarray_ranges.py) |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | Medium | [Python](/solutions/python/maximum_twin_sum_of_a_linked_list.py) |
+| 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Medium | [Python](/solutions/python/longest_palindrome_by_concatenating_two_letter_words.py) |
 | 2214 | [Minimum Health to Beat Game](https://leetcode.com/problems/minimum-health-to-beat-game) | Medium | [Python](/solutions/python/minimum_health_to_beat_game.py) |
 | 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | Medium | [Python](/solutions/python/find_triangular_sum_of_an_array.py) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Easy | [Python](/solutions/python/add_two_integers.py) | [Java](/solutions/java/addTwoIntegers.java) |
